@@ -8,6 +8,7 @@ public class Myspringboot00Application {
 
 	public static void main(String[] args) {
 		System.out.println("099");
+		System.out.println("09");
 		SpringApplication.run(Myspringboot00Application.class, args);
 	}
 
